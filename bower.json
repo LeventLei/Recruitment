@@ -1,0 +1,25 @@
+{
+  "name": "Recruitment",
+  "homepage": "https://github.com/LeventLei/Recruitment",
+  "authors": [
+    "LeventLei <443706199@qq.com>"
+  ],
+  "description": "Developed by AngularJS",
+  "main": "",
+  "keywords": [
+    "Recruitment",
+    "Info"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.8"
+  }
+}
